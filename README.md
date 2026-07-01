@@ -2,7 +2,7 @@
 
 A modern, full-stack AI SaaS application built with **Next.js 15**, **MongoDB**, and **Google Gemini AI**. NexLab AI allows users to securely authenticate, chat with AI, manage conversation history, create reusable prompt libraries, and monitor their activity through a responsive dashboard.
 
-> **Live Demo:** https://vercel.com/muhammad-wasil-alis-projects/nex-lab-ai
+> **Live Demo:** https://nex-lab-ai.vercel.app/
 
 ---
 
